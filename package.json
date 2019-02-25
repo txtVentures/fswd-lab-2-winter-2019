@@ -18,7 +18,6 @@
   "devDependencies": {
     "eslint": "^5.12.1",
     "jest": "^24.0.0",
-    "morgan": "^1.9.1",
     "nodemon": "^1.18.9",
     "opn-cli": "^4.0.0",
     "sequelize-cli": "^5.4.0",
@@ -32,6 +31,7 @@
     "cookie-parser": "^1.4.4",
     "express": "^4.16.4",
     "express-session": "^1.15.6",
+    "morgan": "^1.9.1",
     "pug": "^2.0.3",
     "sequelize": "^4.42.0"
   }
